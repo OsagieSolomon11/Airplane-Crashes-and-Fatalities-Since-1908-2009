@@ -1,0 +1,60 @@
+Air travel has become an integral part of our lives. The air traffic growth is estimated to increase at an annual rate of 5.5%. With such a large system and the number of people opting for this faster mode of transportation, safety concerns become paramount. Most people think of only the aircraft when it comes to travel. But indeed it involves a synergistic and synchronized working of the air operations, air traffic control, crews, airports and weather and security services. To have a closer look at the tragic reality of airplane crashes, the following analysis will provide more insights into the airplane crashed between 1908–2009.
+
+The objectives of this analysis:
+
+Determine the top fatalities by location.
+Top fatalities by flight type.
+Fatalities by operator.
+Comparison between number of passenger aboard and fatalities.
+Fatalities by year.
+
+Tool used: Microsoft Excel and Power BI.
+
+I start the data cleaning process by removing irrelevant columns in my analysis.
+
+
+Separating the generic location from the ‘location’ column by using the ‘split column’ function. Choose ‘,’ as the delimiter to be used.
+
+
+
+The next step is to calculate the necessary parameters for my analysis by using DAX.
+
+Total number of passengers aboard:
+
+
+Total Fatalities:
+
+
+Average fatalities per year:
+
+
+Number of crashes:
+
+
+Visualizations:
+
+Top fatalities by location:
+
+Russia had the highest number of crashes with 4,387. While Brazil took the second with 2,052.
+
+2. Top fatalities by flight type:
+
+
+Douglas DC-3 is the airplane type with the highest fatalities with 4,211.
+
+3. Flight type by operator:
+
+
+Aeroflot flight operator recorded the highest fatalities with 5,451.
+
+4. Number of fatalities compared to the passengers aboard:
+
+
+Out of 107k number of passengers aboard, 84k passengers had fatalities.
+
+5. Crash by year:
+
+
+There was a spike of number of crashes between year 1940 and 2000.
+
+FOR FULL DOCUMENTATION AND DASHBOARD, CLICK: https://medium.com/@osagiesolomix/airplane-crashes-and-fatalities-since-1908-2009-a866702c95af
