@@ -14,7 +14,6 @@ Tool used: Microsoft Excel and Power BI.
 Overview of the raw data:
 
 
-![Chemical-composition-of-cinnamon-in-the-essential-oil-of-cinnamon-bark](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/51b69b5f-e514-4679-9a67-3a0e81d47505)
-![image](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/ac841b91-4dc9-440d-b101-c48db29f1ab3)
+![Chicken-Gizzard](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/e32bd80e-6a19-48a5-b5d4-cd72e43d34b6)
 
 
