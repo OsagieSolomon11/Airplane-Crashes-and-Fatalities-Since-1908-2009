@@ -13,5 +13,7 @@ Tool used: Microsoft Excel and Power BI.
 
 Overview of the raw data:
 
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*4ajpiwzTCJhqiscW1beZ3A.png
+
+![image](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/a9be1078-5e94-4afa-a798-a37196831fa8)
+
 
