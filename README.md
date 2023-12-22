@@ -12,7 +12,9 @@ Fatalities by year.
 Tool used: Microsoft Excel and Power BI.
 
 Overview of the raw data:
-![image](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/8bf8f30e-f418-49ed-80d7-d7fe3f6fd8f4)
 
+
+![Chemical-composition-of-cinnamon-in-the-essential-oil-of-cinnamon-bark](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/51b69b5f-e514-4679-9a67-3a0e81d47505)
+![image](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/ac841b91-4dc9-440d-b101-c48db29f1ab3)
 
 
