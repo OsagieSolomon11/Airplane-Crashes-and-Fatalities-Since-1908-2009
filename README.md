@@ -12,8 +12,7 @@ Fatalities by year.
 Tool used: Microsoft Excel and Power BI.
 
 Overview of the raw data:
+![image](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/8bf8f30e-f418-49ed-80d7-d7fe3f6fd8f4)
 
-
-![image](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/a9be1078-5e94-4afa-a798-a37196831fa8)
 
 
