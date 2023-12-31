@@ -14,6 +14,5 @@ Tool used: Microsoft Excel and Power BI.
 Overview of the raw data:
 
 
-![Chicken-Gizzard](https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/assets/137429847/e32bd80e-6a19-48a5-b5d4-cd72e43d34b6)
 
-
+https://www.datapine.com/blog/wp-content/uploads/2018/10/sales-performance-dashboard.png
