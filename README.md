@@ -52,4 +52,29 @@ Total Fatalities:
 Average fatalities per year:
 
 
+
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*V_Xj-NMt-uZuBSg19V4HZQ.png">
+ 
+
+Number of crashes:
+
+
+ 
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*2vheasme2TQJ3nvt6tCJ4A.png">
+
+
+ 
  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mYaPpy7GUwIq6afpdiLwHA.png">
+
+ Insights:
+
+Russia had the highest number of crashes with 4,387. While Brazil took the second with 2,052.
+
+Douglas DC-3 is the airplane type with the highest fatalities with 4,211.
+
+Aeroflot flight operator recorded the highest fatalities with 5,451.
+
+Out of 107k number of passengers aboard, 84k passengers had fatalities.
+
+There was a spike of number of crashes between year 1940 and 2000.
+
