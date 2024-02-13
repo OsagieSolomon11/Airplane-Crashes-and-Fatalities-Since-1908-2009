@@ -11,6 +11,4 @@ Comparison between number of passenger aboard and fatalities.
 Fatalities by year.
 Tool used: Microsoft Excel and Power BI.
 
-Overview of the raw data:
-
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*mYaPpy7GUwIq6afpdiLwHA.png
+https://github.com/OsagieSolomon11/Airplane-Crashes-and-Fatalities-Since-1908-2009/issues/1#issue-2053526766
