@@ -37,13 +37,19 @@ Before:
  <img src="https://miro.medium.com/v2/resize:fit:328/format:webp/1*K30R4zzRLXg6rgx5Xb5l0A.png">
 
 
+The next step is to calculate the necessary parameters for my analysis by using DAX.
 
- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mYaPpy7GUwIq6afpdiLwHA.png">
+Total number of passengers aboard:
+
+ <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*IUztGxDgOn37OQ-k21uGeA.png">
 
 
- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mYaPpy7GUwIq6afpdiLwHA.png">
+Total Fatalities:
 
 
+ <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Aw4XTuOzz9RRTr61mH-Y9A.png">
+
+Average fatalities per year:
 
 
  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mYaPpy7GUwIq6afpdiLwHA.png">
