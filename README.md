@@ -13,6 +13,4 @@ Tool used: Microsoft Excel and Power BI.
 
 Overview of the raw data:
 
-
-
-https://www.datapine.com/blog/wp-content/uploads/2018/10/sales-performance-dashboard.png
+https://miro.medium.com/v2/resize:fit:720/format:webp/1*mYaPpy7GUwIq6afpdiLwHA.png
